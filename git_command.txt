@@ -6,4 +6,4 @@
    7 git commit -m "added all files"   
    8 git status
    clear
-   git remote set-u
+   git remote set-url origin https://
