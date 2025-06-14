@@ -1,0 +1,8 @@
+
+   3 git status
+   4 git restore nexttest.py
+   5 git status
+   6 git add .
+   7 git commit -m "added all files"   
+   8 git status
+   clear
