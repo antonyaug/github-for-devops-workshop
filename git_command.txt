@@ -7,3 +7,4 @@
    8 git status
    clear
    git remote set-url origin https://
+this is some new changes
